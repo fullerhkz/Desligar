@@ -4,12 +4,7 @@
 
 #include<stdlib.h>
 
-/*
-	OLA MUNDO VERSAO DESLIGANDO PC COM MCFULLER =) 
 
-
-	adeus mc ... 
-*/
 
 
 int main(int argc, char** argv) {
