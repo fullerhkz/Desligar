@@ -7,6 +7,8 @@
 /*
 	OLA MUNDO VERSAO DESLIGANDO PC COM MCFULLER =) 
 
+
+	adeus mc ... 
 */
 
 
