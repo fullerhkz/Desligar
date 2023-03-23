@@ -9,7 +9,7 @@
 
 int main(int argc, char** argv) {
 
-	system("color F0");
+	system("color 02");
 
 
 
@@ -23,9 +23,9 @@ int main(int argc, char** argv) {
 
 		teste = 0;
 
-		printf("\t\tDESLIGAR PC\n\n");
+		printf("\t\t\tDESLIGAR PC\n\n");
 
-		printf("Em quanto tempo voce deseja desligar o seu PC???\n[1] - 15 Minutos\t[2] - 30 Minutos\t[3] - 45 Minutos\n[4] - 60 Minutos\t[5] - 90 Minutos\t[6] - 120 Minutos\n[7] - 180 Minutos\t[8] - 240 Minutos\t[9] - Sair do Programa\n[10] - Cancelar Desligamento\n");
+		printf("\tEm quanto tempo voce deseja desligar o seu PC???\n\n[1] - 15 Minutos\t[2] - 30 Minutos\t[3] - 45 Minutos\n[4] - 60 Minutos\t[5] - 90 Minutos\t[6] - 120 Minutos\n[7] - 180 Minutos\t[8] - 240 Minutos\t[9] - Sair do Programa\n\n\t\t\t[10] - Cancelar Desligamento");
 
 		printf("\nSua Escolha e: ");
 
